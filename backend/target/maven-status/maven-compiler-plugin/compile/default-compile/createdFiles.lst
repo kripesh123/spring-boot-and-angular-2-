@@ -1,0 +1,4 @@
+com\kripesh\ng2boot\Ng2bootApplication.class
+com\kripesh\ng2boot\HomeController.class
+com\kripesh\ng2boot\RestConfiguration.class
+com\kripesh\ng2boot\DefaultController.class
