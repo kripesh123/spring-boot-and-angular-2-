@@ -14,7 +14,7 @@ copy pom.xml backend
 edit the pom from parent backend and frontend
 
 cd frontend\src\main
-run the cli command: ng new --skip-git --directory frontend ng2boot installing ng2
+run the cli command: ng new --skip-git --directory frontend ng2boot 
 
 edit .angular-cli.json
 
